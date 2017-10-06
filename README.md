@@ -1,2 +1,2 @@
 # hello-world
-This is a test of Git Hun
+This is a test of Git Hub
